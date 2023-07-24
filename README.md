@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Giri
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning for a job
+- 🌱 I’m currently learning more about Machine Learning and Data Science 
 - 💞️ I’m looking to collaborate on Github for Projects
 - 📫 How to reach me linkedin.com/in/Tushar Giri
 
