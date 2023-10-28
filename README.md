@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tushargiri9901@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Djj-xkqViaD23A6PIR1ygHVDYPPgt95/view?usp=sharing](https://drive.google.com/file/d/19Djj-xkqViaD23A6PIR1ygHVDYPPgt95/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19Djj-xkqViaD23A6PIR1ygHVDYPPgt95/view?usp=sharing](https://drive.google.com/file/d/100SdOWh8iVhMrxIIoYgxnu-aYzzsmK9s/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm still trying to find what i am 🗿**
 
