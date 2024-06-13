@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **frontent web developer and C++**
+- 💬 Ask me about **Web Development || Programming Languages || AWS Cloud Platform**
 
 - 📫 How to reach me **Tushargiri9901@gmail.com**
 
