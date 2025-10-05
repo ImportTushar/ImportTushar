@@ -53,39 +53,31 @@ key_achievements:
 ```
 
 🚀 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,java,spring,terraform,linux,prometheus,grafana,git,github,gitlab,python,vscode" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,java,spring,terraform,linux,prometheus,grafana,git,github,gitlab,python,vscode,kubernetes" /> </div>
 📊 GitHub Stats
-## 🚀 My GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&theme=react&hide_border=true&count_private=true" 
-          alt="GitHub Stats" 
-          width="300" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=importtushar&layout=compact&theme=react&hide_border=true" 
-          alt="Top Languages" 
-          width="300" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://streak-stats.vercel.app?user=importtushar&theme=react&hide_border=true" 
-          alt="GitHub Streak" 
-          width="300" 
-        />
-      </td>
-    </tr>
-  </table>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&theme=react&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    style="max-width: 100%; width: 300px;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=importtushar&layout=compact&theme=react&hide_border=true" 
+    alt="Top Languages" 
+    style="max-width: 100%; width: 300px;"
+  />
+
+  <img 
+    src="https://streak-stats.vercel.app?user=importtushar&theme=react&hide_border=true" 
+    alt="GitHub Streak" 
+    style="max-width: 100%; width: 300px;"
+  />
 
 </div>
+
 
 
 
