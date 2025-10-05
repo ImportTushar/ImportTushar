@@ -53,13 +53,47 @@ key_achievements:
 ```
 
 🚀 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,prometheus,grafana,git,github,gitlab,python,vscode" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,java,spring,terraform,linux,prometheus,grafana,git,github,gitlab,python,vscode" /> </div>
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=importtushar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=importtushar&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-🎥 Coding in Action
+## 🚀 My GitHub Stats
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&theme=react&hide_border=true&count_private=true" 
+          alt="GitHub Stats" 
+          width="300" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=importtushar&layout=compact&theme=react&hide_border=true" 
+          alt="Top Languages" 
+          width="300" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://streak-stats.vercel.app?user=importtushar&theme=react&hide_border=true" 
+          alt="GitHub Streak" 
+          width="300" 
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
 <div align="center"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" alt="Terminal Coding" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code Thinking" /> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Fast" /> </div>
+
 🤝 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/tushar-giri-871961216/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /> </a> <a href="mailto:Tushargiri9901@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /> </a> <a href="https://github.com/importtushar" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /> </a> <a href="https://tushar-giri.vercel.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /> </a> </div>
+
 👁 Visitor Count
 <div align="center">
   <img src="https://count.getloli.com/get/@importtushar?theme=rule34" alt="Visitor Count" />
