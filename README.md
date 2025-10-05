@@ -93,16 +93,16 @@ key_achievements:
 
 ---
 
-## 📌 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
+📌 Featured Projects
   <a href="https://github.com/importtushar/devops-bootcamp" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=importtushar&repo=devops-bootcamp&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/importtushar/aws-iac-blueprints" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=importtushar&repo=aws-iac-blueprints&theme=tokyonight&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 ---
 
