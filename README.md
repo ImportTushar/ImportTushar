@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76305580/258805193-8a3f2c52-d1f3-4c1f-9e71-c2a6e3df9bcd.png" alt="background" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Tushar Giri</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -15,6 +19,9 @@
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
+  <a href="https://www.linkedin.com/in/tushar-giri-871961216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
@@ -23,16 +30,7 @@
 - Currently learning **Software Engineering**
 - 💬 Ask me about **Web Development, Programming Languages, AWS Cloud Platform**
 - 📫 Reach me at: [Tushargiri9901@gmail.com](mailto:Tushargiri9901@gmail.com)
-- 📄 View my Resume: [Link](https://drive.google.com/file/d/1ENQZykuPk1J5Dvxyp6M1FmCVr5nikdsk/view?usp=sharing)
-
----
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-giri-871961216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+- 📄 View my Resume: [Click here](https://drive.google.com/file/d/1ENQZykuPk1J5Dvxyp6M1FmCVr5nikdsk/view?usp=sharing)
 
 ---
 
@@ -61,16 +59,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=importtushar&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=importtushar" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=importtushar&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=importtushar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=importtushar&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
-
 
