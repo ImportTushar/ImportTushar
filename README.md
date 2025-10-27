@@ -84,7 +84,7 @@ key_achievements:
 <div align="center"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" alt="Terminal Coding" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Code Thinking" /> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding Fast" /> </div>
 
 🤝 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/tushar-giri-871961216/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /> </a> <a href="mailto:Tushargiri9901@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /> </a> <a href="https://github.com/importtushar" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /> </a> <a href="https://tushar-giri.vercel.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /> </a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/tushar-giri-871961216/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /> </a> <a href="mailto:Tushargiri9901@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /> </a> <a href="https://github.com/importtushar" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /> </a> <a href="https://tushar-updated-portofolio.web.app/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio" /> </a> </div>
 
 👁 Visitor Count
 <div align="center">
